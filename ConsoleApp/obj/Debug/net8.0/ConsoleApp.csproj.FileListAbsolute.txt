@@ -1,0 +1,14 @@
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/sarapetrovic/Desktop/basketball-tournament-task/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
