@@ -1,0 +1,15 @@
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/bin/Debug/net8.0/MyApp
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/bin/Debug/net8.0/MyApp.dll
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/bin/Debug/net8.0/MyApp.pdb
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/MyApp.dll
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/MyApp.pdb
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/Users/sarapetrovic/Desktop/basketball-tournament-task/MyApp/obj/Debug/net8.0/ref/MyApp.dll
